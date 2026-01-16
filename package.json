@@ -13,7 +13,6 @@
     "parcel": "^2.12.0"
   },
   "description": "",
-  "main": "index.js",
   "author": "",
   "license": "ISC"
 }
